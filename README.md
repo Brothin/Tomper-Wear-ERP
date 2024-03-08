@@ -155,7 +155,7 @@ This is privilege is ideal for the delivery-agent(s).
 
 Clone the repo to your local machine.
 
-At first set-up the backend - 
+At first set-up the backend by going to the backend folder - 
 
 1. Install the required dependency for server using :
 
@@ -182,7 +182,7 @@ At first set-up the backend -
    npm start
    ```
 
-Now set-up the frontend -
+Now set-up the frontend by going to the admin folder -
 
 1. Install the required dependency for server using :
 
