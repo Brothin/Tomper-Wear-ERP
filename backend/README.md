@@ -1,5 +1,5 @@
 <p align='center'>
-<img src='./src/assets/logo.svg'  width='25%'>
+<img src='assets/logo.svg'  width='25%'>
 </p>
 <p align='center'>
 <b>ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently</b>
