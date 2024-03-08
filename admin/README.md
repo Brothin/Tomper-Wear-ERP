@@ -153,20 +153,50 @@ This is privilege is ideal for the delivery-agent(s).
 
 ## 🛠 Installation and setup
 
-1. Clone the repo to your local machine.
-2. Install the required dependency for server using :
+Clone the repo to your local machine.
+
+At first set-up the backend - 
+
+1. Install the required dependency for server using :
 
    ```javascript
    npm install
    ```
 
-3. Create a .env file inside the root folder and provide the following environment variables:
+2. Create a .env file inside the root folder and provide the following environment variables:
+
+   ```env
+   STRIPE_SECRET_KEY=<stripe_secret_key>
+   DB_URI=<mongo_uri>
+   JWT_SECRET=<your_jwt_secret>
+   JWT_EXPIRE=5d
+   COOKIE_EXPIRE=5
+   CLOUDINARY_CLOUD_NAME=<cloudinary_cloud_name>
+   CLOUDINARY_API_KEY=<cloudinary_api_key>
+   CLOUDINARY_API_SECRET=<cloudinary_api_secret>
+   ```
+
+3. Start the dev server using :
+
+   ```javascript
+   npm start
+   ```
+
+Now set-up the frontend -
+
+1. Install the required dependency for server using :
+
+   ```javascript
+   npm install
+   ```
+
+2. Create a .env file inside the root folder and provide the following environment variables:
 
    ```env
    REACT_APP_BACKEND_HOST=<backend_url>
    ```
 
-4. Start the dev server using :
+3. Start the dev server using :
 
    ```javascript
    npm start
