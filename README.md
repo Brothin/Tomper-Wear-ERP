@@ -9,9 +9,9 @@
 This is the Admin dashboard of TomperWear build with MERN stack
 </p>
 
-## Hosted Web Link - https://tomper-wear-admin.netlify.app/
+## 🚀 Hosted Web Link - https://tomper-wear-admin.netlify.app/
 
-## 📷 [Screenshots](./SCREENSHOTS.md)
+## 📷 Screenshots to website pages - [Screenshots](./SCREENSHOTS.md)
 
 ## 🧾 Description
 
