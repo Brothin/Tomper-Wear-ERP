@@ -4,7 +4,6 @@
 <p align='center'>
 <b>ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently</b>
 </p>
----
 
 <p align='center'>
 This is the Admin dashboard of TomperWear build with MERN stack
