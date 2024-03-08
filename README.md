@@ -9,10 +9,6 @@
 This is the Admin dashboard of TomperWear build with MERN stack
 </p>
 
-## 🚀 Hosted Web Link - https://tomper-wear-admin.netlify.app/
-
-## 📷 Screenshots of Website - [Screenshots](./SCREENSHOTS.md)
-
 ## 🧾 Description
 
 The goal of this project is to create a simplified interface for an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. The system will consist of the following pages:
@@ -20,6 +16,27 @@ The goal of this project is to create a simplified interface for an ERP (Enterpr
 • Dashboard - Provides an overview of the system's features.<br>
 • Products Management - Allows for the management of product listings.<br>
 • Orders Management - Facilitates viewing and handling orders.
+
+## 🚀 Hosted Web Link - https://tomper-wear-admin.netlify.app/
+
+## 📷 Screenshots of Website - [Screenshots](./SCREENSHOTS.md)
+
+## 🤝 Test admin user credentials
+
+| **Username**  | **E-mail**                   | **Password**     |
+| ------------- | ---------------------------- | ---------------- |
+| Test Super    | test.super@tomperwear.com    | testsuper1212    |
+| Test Moderate | test.moderate@tomperwear.com | testmoderate1212 |
+| Test Low      | test.low@tomperwear.com      | testlow1212      |
+
+NOTE: These are just for testing purpose. Please don't:
+
+1. Update or delete an existing product.
+2. Delete product reviews.
+3. Create new admin users.
+4. Delete existing admin users.
+
+For testing out things, you can create a new product, try out things and after that delete the product that you created.
 
 ## ✨ Features
 
@@ -211,20 +228,3 @@ Now set-up the frontend by going to the admin folder -
    ```javascript
    npm run build
    ```
-
-## 🤝 Test admin user credentials
-
-| **Username**  | **E-mail**                   | **Password**     |
-| ------------- | ---------------------------- | ---------------- |
-| Test Super    | test.super@tomperwear.com    | testsuper1212    |
-| Test Moderate | test.moderate@tomperwear.com | testmoderate1212 |
-| Test Low      | test.low@tomperwear.com      | testlow1212      |
-
-NOTE: These are just for testing purpose. Please don't:
-
-1. Update or delete an existing product.
-2. Delete product reviews.
-3. Create new admin users.
-4. Delete existing admin users.
-
-For testing out things, you can create a new product, try out things and after that delete the product that you created.
