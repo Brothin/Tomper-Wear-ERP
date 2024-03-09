@@ -145,15 +145,6 @@ This is privilege is ideal for the delivery-agent(s).
 
 ## ⚙ Tools and Technologies used
 
-#### [Client](https://github.com/varunKT001/tomper-wear-ecommerce)
-
-1. [React.js](https://reactjs.org/)
-2. [React-icons](https://react-icons.github.io/react-icons/)
-3. [Styled-Components](https://styled-components.com/)
-4. [Firebase](https://firebase.google.com/)
-5. [Stripe](https://stripe.com/)
-6. [Formspree](https://formspree.io/)
-
 #### [Admin panel](https://github.com/varunKT001/tomper-wear-ecommerce-admin)
 
 1. [React.js](https://reactjs.org/)
